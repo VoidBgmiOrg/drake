@@ -16,10 +16,10 @@ import threading
 from keep_alive import keep_alive
 keep_alive()
 stopuser = {}
-token = '7371222023:AAH4iWENMmT1S6-lK1-p2F0i376YIP82-OI'
+token = '6716934871:AAEF3gEfPOM3Uiqy5wy-djEeTOzA0S7RFK8'
 bot=telebot.TeleBot(token,parse_mode="HTML")
-admin=5102323588
-admin2=6574060333
+admin=5877886554
+admin2=5877886554
 f = Faker()
 name = f.name()
 street = f.address()
